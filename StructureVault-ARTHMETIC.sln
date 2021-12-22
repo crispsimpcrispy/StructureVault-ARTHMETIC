@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic.Core", "Arithmetic.Core\Arithmetic.Core.csproj", "{E326BD61-CFDE-4034-9D3F-2CB72DDF497A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic.Concrete", "Arithmetic.Concrete\Arithmetic.Concrete.csproj", "{902D7A0F-9683-46AB-9416-A997766FECED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E326BD61-CFDE-4034-9D3F-2CB72DDF497A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E326BD61-CFDE-4034-9D3F-2CB72DDF497A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E326BD61-CFDE-4034-9D3F-2CB72DDF497A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E326BD61-CFDE-4034-9D3F-2CB72DDF497A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902D7A0F-9683-46AB-9416-A997766FECED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902D7A0F-9683-46AB-9416-A997766FECED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902D7A0F-9683-46AB-9416-A997766FECED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902D7A0F-9683-46AB-9416-A997766FECED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
